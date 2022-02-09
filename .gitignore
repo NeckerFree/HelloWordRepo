@@ -2,4 +2,8 @@
 test.MD
 
 # Ignore node_modules folder
+<<<<<<< HEAD
 node_modules
+=======
+node_modules
+>>>>>>> f65755cfbe5485a7d19253e344d750c794560985
