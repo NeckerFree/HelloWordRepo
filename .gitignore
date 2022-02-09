@@ -1,2 +1,5 @@
 # Ignore MD test file
 test.MD
+
+# Ignore node_modules folder
+node_modules
